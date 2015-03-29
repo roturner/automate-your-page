@@ -1,0 +1,30 @@
+
+.body {
+	max-width: 700px;
+}
+.title {
+	background-color: #006699;
+	text-align: center;
+	height: 30px;
+    width:100%; 
+    padding-top: 10px;
+    border-radius: 25px;
+}
+.content {
+	padding-left: 20px;
+}
+h1 {
+	text-align: center
+}
+h2 {
+	color: #FFFFFF;
+}
+h4 {
+	text-align: center;
+}
+p {
+	text-indent: 25px;
+	max-width: 580px;
+	padding-left: 30px
+}
+
